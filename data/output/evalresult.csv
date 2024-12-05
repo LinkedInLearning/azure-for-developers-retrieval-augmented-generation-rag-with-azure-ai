@@ -1,0 +1,1043 @@
+inputs.query,inputs.response,inputs.context,inputs.ground_truth,outputs.groundedness.groundedness,outputs.groundedness.gpt_groundedness,outputs.groundedness.groundedness_reason,outputs.retrieval.retrieval,outputs.retrieval.gpt_retrieval,outputs.retrieval.retrieval_reason,outputs.relevance.relevance,outputs.relevance.gpt_relevance,outputs.relevance.relevance_reason,outputs.coherence.coherence,outputs.coherence.gpt_coherence,outputs.coherence.coherence_reason,outputs.fluency.fluency,outputs.fluency.gpt_fluency,outputs.fluency.fluency_reason,outputs.f1_score.f1_score,outputs.rouge_score.rouge_precision,outputs.rouge_score.rouge_recall,outputs.rouge_score.rouge_f1_score,outputs.bleu_score.bleu_score,outputs.meteor_score.meteor_score,outputs.gleu_score.gleu_score
+What atmospheric phenomena related to cloud patterns were observed in Bolivia in June 2014?,"- In June 2014, atmospheric phenomena related to cloud patterns were observed over the Amazon rainforest in Bolivia as part of an image captured by the Aqua satellite. 
+- As the sunlight warmed the forest, water vapor rose and condensed into cumulus clouds when encountering cooler air masses above.
+- These cumulus cloud streets aligned parallel to the direction of the wind and sometimes along the curved lines of high-pressure weather systems. 
+
+Source: page-11.pdf","TITLE: page-11.pdf, CONTENT: A
+T
+
+M
+O
+
+S
+P
+
+H
+E
+
+R
+E
+
+E
+A
+
+R
+T
+
+H
+
+4
+
+Curving Cloud Streets
+Brazil and Bolivia  
+
+To the human eye, the wind is invisible. It can only be visualized by proxy, by its expressions in other phenomena like blowing leaves, 
+
+airborne dust, white-capped waters—or the patterns of clouds.
+
+Acquired in June 2014 by the Aqua satellite, this image shows a broad swath of the Amazon rainforest in Brazil and Bolivia as it 
+
+appeared in the early afternoon. As sunlight warms the forest in the morning, water vapor rises on columns of heated air. When that 
+
+humid air runs into a cooler, more stable air mass above, it condenses into fluffy cumulus clouds. 
+
+Cumulus cloud streets often trace the direction, and sometimes the intensity, of winds—lining up parallel to the direction of the wind. 
+
+Usually this means a straight line, but clouds can also line up along the concentric, curved lines of high-pressure weather systems, 
+
+as they did here.=================
+TITLE: page-109.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+102
+
+Folds and Curves of the Kavir
+Iran
+
+When astronauts pass over the deserts of central Iran, they are greeted by a striking pattern of parallel lines and sweeping curves. 
+
+The lack of soil and vegetation in the Kavir desert (Dasht-e Kavir) allows the geological structure to appear quite clearly. 
+
+The patterns result from the gentle folding of numerous, thin layers of rock. Later, erosion by wind and water cut a flat surface across 
+
+the dark- and light-colored folds, not only exposing hundreds of layers but also showing the shapes of the folds. The pattern has 
+
+been likened to the layers of a sliced onion.
+
+The dark water of a lake (image center) fills a depression in a more easily eroded, S-shaped layer of rock. A small river snakes across 
+
+the bottom of this October 2014 photograph taken from the International Space Station.=================
+TITLE: page-105.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+98
+
+From Rainforest to Rain Shadow
+United States
+
+Within a three-hour drive across Oregon, you can visit a beach, a temperate rainforest, a mountain glacier, and the high desert.  
+
+The diversity of the landscape is mostly driven by the interaction of air masses and mountains.
+
+This false-color Landsat 5 image from October 2011 shows the bare soil and sparse vegetation of the high desert in shades of pink, 
+
+together with the deep-green vegetation on the west side of the Cascade Mountains. The one blue spot is the glacial cap of Mount Hood. 
+
+The transition from green to brown is indicative of a “rain shadow.” Winds blowing from the west carry moisture from the Pacific 
+
+Ocean. As the air moves up into the mountains, it cools and the pressure decreases; the moisture condenses and falls out as rain or 
+
+snow. On the eastern side, as the elevation drops, the air pressure increases and the air warms, effectively shutting off precipitation 
+
+because the air can better hold the remaining moisture.","In June 2014, the Aqua satellite captured an image showing a broad swath of the Amazon rainforest in Brazil and Bolivia. The image revealed curving cloud streets, which are cumulus clouds that form when humid air rises on columns of heated air and condenses upon encountering a cooler, more stable air mass above. These cloud streets often trace the direction and intensity of winds, aligning parallel to the wind direction. In this instance, the clouds lined up along the concentric, curved lines of high-pressure weather systems.",5,5,"The RESPONSE is fully grounded in the CONTEXT, accurately conveying all essential information without introducing unsupported details or omitting critical points.",5,5,"The input data should get a Score of 5 because the most relevant context chunk is at the top, fully addressing the query about cloud patterns in Bolivia in June 2014, without introducing any external knowledge or bias.",4,4,The response fully addresses the query with accurate and complete information about the atmospheric phenomena related to cloud patterns observed in Bolivia in June 2014.,4,4,"The RESPONSE is coherent, directly addresses the QUERY, and presents information in a logical and orderly manner with clear connections between ideas.",4,4,"The RESPONSE demonstrates proficient fluency with well-structured sentences, varied vocabulary, and clear, coherent ideas. It aligns with the characteristics of a high fluency level, with minor errors that do not affect understanding.",0.5323741007,0.6216216216,0.5287356322,0.5714285714,0.1741018221,0.4994789792,0.2380952381
+What makes Mount Kilimanjaro in Africa a unique adventure for climbers?,"Mount Kilimanjaro in Africa is a unique adventure for climbers because, despite its equatorial location, it is capped with snow and ice. To reach the icy summit, climbers must traverse through a series of incredibly diverse vegetation zones. This journey takes them from the hot, dry savanna through a montane forest, followed by a moorland zone with short, hardy plants, and finally into the extreme environmental conditions of the alpine desert and summit zones, which are inhospitable to all but the most skilled climbers. (Source: page-115.pdf)","TITLE: page-115.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+108
+
+The Zones of Kilimanjaro
+Tanzania
+
+Stories about Mount Kilimanjaro often focus on its height and location. The tallest mountain in Africa is capped with snow and ice, 
+
+despite sitting near the Equator. But it is also compelling for a different reason: To get to the icy summit, you must pass through 
+
+incredibly diverse vegetation zones. The mountain rises from the hot, dry savanna, through rainforest and hardy scrublands, to a 
+
+rocky and icy summit.
+
+People have cultivated the lowlands ringing the mountain, which appear as patchy green areas. The continuous dark-green band is 
+
+montane forest, which stretches from roughly 1,800 to 2,800 meters in elevation. The dark-green areas transition to a band of green-
+
+brown known as the moorland zone—colder, less humid, and full of short, hardy plants. The highest areas—the alpine desert and 
+
+summit zones—are inhospitable to all but the most skilled mountain climbers.=================
+TITLE: page-109.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+102
+
+Folds and Curves of the Kavir
+Iran
+
+When astronauts pass over the deserts of central Iran, they are greeted by a striking pattern of parallel lines and sweeping curves. 
+
+The lack of soil and vegetation in the Kavir desert (Dasht-e Kavir) allows the geological structure to appear quite clearly. 
+
+The patterns result from the gentle folding of numerous, thin layers of rock. Later, erosion by wind and water cut a flat surface across 
+
+the dark- and light-colored folds, not only exposing hundreds of layers but also showing the shapes of the folds. The pattern has 
+
+been likened to the layers of a sliced onion.
+
+The dark water of a lake (image center) fills a depression in a more easily eroded, S-shaped layer of rock. A small river snakes across 
+
+the bottom of this October 2014 photograph taken from the International Space Station.=================
+TITLE: page-119.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+112
+
+Don Juan Pond
+Antarctica
+
+In a valley in one of the most extreme environments on Earth lies the world’s saltiest body of water. It rarely snows and never rains in 
+
+the McMurdo Dry Valleys of Antarctica. Winter temperatures can drop to –50° Celsius, and the few ponds and lakes are capped by 
+
+ice that is several meters thick.
+
+Then there’s Don Juan Pond. The ankle-deep pond in Upper Wright Valley is so salty that its calcium chloride–rich waters rarely 
+
+freeze. With a salinity level of over 40 percent, Don Juan is significantly saltier than the Dead Sea and the Great Salt Lake.
+
+The Earth Observing-1 satellite captured this image in January 2014. The ellipse-shaped lake is situated at the bottom of a basin 
+
+between the Dais plateau and the Asgard Range to the south. It has a slightly darker hue than the salt-encrusted lake bottom around it.","Mount Kilimanjaro, the tallest mountain in Africa, offers a unique adventure due to its diverse vegetation zones. Climbers must traverse from the hot, dry savanna through rainforest and hardy scrublands to reach the rocky and icy summit. This journey through various ecological zones, from cultivated lowlands to inhospitable alpine desert and summit zones, provides a compelling and challenging experience for adventure enthusiasts.",5,5,"The RESPONSE is entirely based on the CONTEXT, accurately conveying all essential information without introducing unsupported details or omitting critical points.",4,4,"The first context chunk is highly relevant and well-ranked, but the presence of irrelevant chunks lowers the overall retrieval quality.",5,5,"The response fully addresses the query with accurate and complete information, providing essential details about the unique features of Mount Kilimanjaro and the diverse environments climbers experience. It also includes additional insights into the challenges faced by climbers, making it a comprehensive response.",4,4,The RESPONSE is coherent and effectively addresses the QUERY with a logical flow of ideas and clear connections between sentences. It provides a detailed and organized explanation of the unique aspects of climbing Mount Kilimanjaro.,4,4,"The RESPONSE is well-articulated with varied vocabulary and complex sentence structures. It demonstrates coherence and cohesion, with minor errors, if any, that do not affect understanding. The text flows smoothly, and ideas are logically connected, fitting the definition of Proficient Fluency.",0.5373134328,0.46590909090000004,0.6612903226,0.5466666667,0.185911608,0.5345972603,0.230964467
+Wht are the diffrent landscapes in the Unted States as seen in Oregon?,"The different landscapes in the United States as seen in Oregon include:
+
+- Beach
+- Temperate rainforest
+- Mountain glacier
+- High desert
+
+This diversity is primarily due to the interaction of air masses and mountains, resulting in a range of environments within a short distance. The transition from the lush vegetation of the rainforests on the west side of the Cascade Mountains to the arid high desert in the east is indicative of a ""rain shadow"" effect. (Source: page-105.pdf)","TITLE: page-105.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+98
+
+From Rainforest to Rain Shadow
+United States
+
+Within a three-hour drive across Oregon, you can visit a beach, a temperate rainforest, a mountain glacier, and the high desert.  
+
+The diversity of the landscape is mostly driven by the interaction of air masses and mountains.
+
+This false-color Landsat 5 image from October 2011 shows the bare soil and sparse vegetation of the high desert in shades of pink, 
+
+together with the deep-green vegetation on the west side of the Cascade Mountains. The one blue spot is the glacial cap of Mount Hood. 
+
+The transition from green to brown is indicative of a “rain shadow.” Winds blowing from the west carry moisture from the Pacific 
+
+Ocean. As the air moves up into the mountains, it cools and the pressure decreases; the moisture condenses and falls out as rain or 
+
+snow. On the eastern side, as the elevation drops, the air pressure increases and the air warms, effectively shutting off precipitation 
+
+because the air can better hold the remaining moisture.=================
+TITLE: page-103.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+96
+
+Bowknot Bend
+United States
+
+This section of the Green River canyon in eastern Utah is known as Bowknot Bend because of the way the river doubles back on 
+
+itself. The loop carries river rafters 14.5 kilometers (9 miles) before bringing them back to nearly the same point they started from—
+
+though on the other side of a low, narrow saddle. The reason for the tight bends in the Green River is the same as it is for the mighty 
+
+Mississippi: river courses often wind over time when they flow across a bed of relatively soft sediment in a floodplain.
+
+In this January 2014 photograph taken from the International Space Station, the Green River appears dark because it lies in deep 
+
+shadow, 300 meters (1,000 feet) below the surrounding landscape. The yellow-tinged cliffs that face the rising Sun give a sense of 
+
+the steep canyon walls. The straight white line across the scene is the contrail from a jetliner.=================
+TITLE: page-111.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+104
+
+Fanning Out in Farmland
+Kazakhstan
+
+Mountain streams are usually confined to narrow channels and tend to transport large amounts of gravel, sand, clay, and silt—
+
+what geologists call alluvium. When such a stream pours onto a relatively flat valley or basin, it often spreads out to into multiple, 
+
+interlacing channels. Over time, the channels migrate back and forth, creating fan-shaped deposits known as alluvial fans.
+
+Landsat 8 captured this view of Kazakhstan’s Almaty Province in September 2013. On the lower left, the Tente River flows through 
+
+the foothills of the Dzungarian Alatau range. Where the Tente emerges, it spreads out and becomes a braided stream. The 
+
+movement of the channel over time has left a large alluvial fan. In arid areas, these fans are often used for agriculture because they 
+
+are relatively flat and provide groundwater for irrigation. The blocky green patterns show fields or pasture land.","In Oregon, within a three-hour drive, you can experience a variety of landscapes including a beach, a temperate rainforest, a mountain glacier, and the high desert. This diversity is primarily due to the interaction of air masses and mountains, creating distinct ecological zones such as the rain shadow effect observed on the eastern side of the Cascade Mountains.",5,5,"The RESPONSE is fully grounded in the CONTEXT, accurately reflecting all the essential information without adding unsupported details or omitting critical points.",2,2,"The first context chunk is highly relevant and well-ranked, but the subsequent chunks are irrelevant to the query. This mixture of relevance and irrelevance suggests a score that reflects partial relevance with some well-ranked information.",5,5,"The response fully addresses the query by listing the landscapes and provides additional insights into the geographical reasons for the diversity, making it comprehensive and insightful.",4,4,"The RESPONSE is coherent as it directly addresses the QUERY with a logical sequence of ideas and clear connections between sentences. It effectively explains the diversity of landscapes in Oregon, making it easy to understand.",4,4,"The response is well-articulated with good control of grammar and varied vocabulary. It demonstrates coherence and cohesion, with minor errors that do not affect understanding. The text flows smoothly, and ideas are logically connected, fitting the definition of proficient fluency.",0.5945945946,0.5256410256,0.6949152542,0.598540146,0.2299354211,0.5167687942,0.2542857143
+What is the significance of the Liwa Oasis on the Arabian Peninsula?,"- The Liwa Oasis is located in the United Arab Emirates, on the northern edge of the Rub’ al Khali desert.
+- It is one of the largest oases on the Arabian Peninsula, consisting of a T-shaped, 100-kilometer stretch of date plantations and small towns, with a population of about 20,000 people.
+- Historically, Bedouins accessed underground water supplies at the oasis at least five centuries ago, allowing for the proliferation of date farms.
+- Modern techniques such as drip irrigation and greenhouses are used to conserve water, which primarily comes from ancient aquifers filled with ""fossil"" water that accumulated over 20,000 years ago.
+
+(Source: page-117.pdf)","TITLE: page-117.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+110
+
+Liwa Oasis
+United Arab Emirates
+
+In the sandy tan terrain of the United Arab Emirates, on the northern edge of the Rub’ al Khali, an oasis brings green to the desert. 
+
+The T-shaped, 100-kilometer stretch of date plantations and small towns compose the Liwa Oasis, home to about 20,000 people in 
+
+the emirate of Abu Dhabi. It is one of the largest oases on the Arabian Peninsula.
+
+Bedouins tapped underground water supplies here at least five centuries ago, and date farms have proliferated. Drip irrigation 
+
+and greenhouses now help conserve the precious water supply. Since rainfall is scarce in the region, much of the water comes 
+
+from aquifers full of “fossil” water that accumulated more than 20,000 years ago and is now buried deep under the sand seas and 
+
+limestone formations.=================
+TITLE: page-109.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+102
+
+Folds and Curves of the Kavir
+Iran
+
+When astronauts pass over the deserts of central Iran, they are greeted by a striking pattern of parallel lines and sweeping curves. 
+
+The lack of soil and vegetation in the Kavir desert (Dasht-e Kavir) allows the geological structure to appear quite clearly. 
+
+The patterns result from the gentle folding of numerous, thin layers of rock. Later, erosion by wind and water cut a flat surface across 
+
+the dark- and light-colored folds, not only exposing hundreds of layers but also showing the shapes of the folds. The pattern has 
+
+been likened to the layers of a sliced onion.
+
+The dark water of a lake (image center) fills a depression in a more easily eroded, S-shaped layer of rock. A small river snakes across 
+
+the bottom of this October 2014 photograph taken from the International Space Station.=================
+TITLE: page-101.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+94
+
+Colorful Faults of Xinjiang
+China
+
+Just south of the Tien Shan mountains, in northwestern Xinjiang province, a remarkable series of ridges dominates the landscape. 
+
+The hills are decorated with distinctive red, green, and cream-colored sedimentary rock layers. The colors reflect rocks that formed 
+
+at different times and in different environments. The red layers near the top of the sequence are Devonian sandstones formed 
+
+by ancient rivers. The green layers are Silurian sandstones formed in a moderately deep ocean. The cream-colored layers are 
+
+Cambrian-Ordovician limestone formed in a shallow ocean.
+
+Landsat 8 captured this image of the Keping Shan thrust belt in July 2013. When land masses collide, the pressure can create 
+
+what geologists call “fold and thrust belts.” Slabs of sedimentary rock that were laid down horizontally can be squeezed into wavy 
+
+anticlines and synclines. Sometimes the rock layers break completely, and older layers of rock pile up on top of younger layers.","The Liwa Oasis, located in the United Arab Emirates on the northern edge of the Rub’ al Khali, is significant as it brings greenery to the desert. It is one of the largest oases on the Arabian Peninsula, home to about 20,000 people in the emirate of Abu Dhabi. The oasis has a history of Bedouins tapping underground water supplies for at least five centuries, and it supports date plantations and small towns. Modern techniques like drip irrigation and greenhouses are used to conserve water, which primarily comes from ancient aquifers filled with 'fossil' water accumulated over 20,000 years ago.",5,5,"The RESPONSE is fully grounded in the CONTEXT, accurately conveying all essential information without introducing unsupported details or omitting critical points.",5,5,"The first context chunk is highly relevant to the query and is well-ranked at the top, while the other chunks are irrelevant. The retrieval effectively surfaces the most pertinent information without introducing bias.",3,3,"The response provides detailed information about the Liwa Oasis but does not directly address its significance, which is the core of the query. It lacks a direct statement or insight into why the oasis is significant, making it an incomplete response.",4,4,"The RESPONSE is coherent and provides relevant information about the Liwa Oasis, addressing the QUERY effectively. It is logically organized and easy to follow, though it could benefit from a more explicit connection to the overall significance of the oasis.",4,4,"The RESPONSE is well-articulated with good control of grammar and a varied vocabulary. The sentences are complex and well-structured, demonstrating coherence and cohesion. The text flows smoothly, and ideas are connected logically, which aligns with the definition of Proficient Fluency.",0.7912087912,0.7685185185000001,0.8137254902000001,0.7904761905000001,0.44757125600000003,0.7506404487,0.4691119691
+Wher is the Tien Shan located?,I don't know.,"TITLE: page-101.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+94
+
+Colorful Faults of Xinjiang
+China
+
+Just south of the Tien Shan mountains, in northwestern Xinjiang province, a remarkable series of ridges dominates the landscape. 
+
+The hills are decorated with distinctive red, green, and cream-colored sedimentary rock layers. The colors reflect rocks that formed 
+
+at different times and in different environments. The red layers near the top of the sequence are Devonian sandstones formed 
+
+by ancient rivers. The green layers are Silurian sandstones formed in a moderately deep ocean. The cream-colored layers are 
+
+Cambrian-Ordovician limestone formed in a shallow ocean.
+
+Landsat 8 captured this image of the Keping Shan thrust belt in July 2013. When land masses collide, the pressure can create 
+
+what geologists call “fold and thrust belts.” Slabs of sedimentary rock that were laid down horizontally can be squeezed into wavy 
+
+anticlines and synclines. Sometimes the rock layers break completely, and older layers of rock pile up on top of younger layers.=================
+TITLE: page-111.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+104
+
+Fanning Out in Farmland
+Kazakhstan
+
+Mountain streams are usually confined to narrow channels and tend to transport large amounts of gravel, sand, clay, and silt—
+
+what geologists call alluvium. When such a stream pours onto a relatively flat valley or basin, it often spreads out to into multiple, 
+
+interlacing channels. Over time, the channels migrate back and forth, creating fan-shaped deposits known as alluvial fans.
+
+Landsat 8 captured this view of Kazakhstan’s Almaty Province in September 2013. On the lower left, the Tente River flows through 
+
+the foothills of the Dzungarian Alatau range. Where the Tente emerges, it spreads out and becomes a braided stream. The 
+
+movement of the channel over time has left a large alluvial fan. In arid areas, these fans are often used for agriculture because they 
+
+are relatively flat and provide groundwater for irrigation. The blocky green patterns show fields or pasture land.=================
+TITLE: page-109.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+102
+
+Folds and Curves of the Kavir
+Iran
+
+When astronauts pass over the deserts of central Iran, they are greeted by a striking pattern of parallel lines and sweeping curves. 
+
+The lack of soil and vegetation in the Kavir desert (Dasht-e Kavir) allows the geological structure to appear quite clearly. 
+
+The patterns result from the gentle folding of numerous, thin layers of rock. Later, erosion by wind and water cut a flat surface across 
+
+the dark- and light-colored folds, not only exposing hundreds of layers but also showing the shapes of the folds. The pattern has 
+
+been likened to the layers of a sliced onion.
+
+The dark water of a lake (image center) fills a depression in a more easily eroded, S-shaped layer of rock. A small river snakes across 
+
+the bottom of this October 2014 photograph taken from the International Space Station.","The Tien Shan mountains are located just south of the colorful faults in northwestern Xinjiang province, China.",1,1,The RESPONSE is completely ungrounded as it does not relate to the CONTEXT in any way.,5,5,"The context provides a direct answer to the query about the location of the Tien Shan, with the most relevant information at the top. There is no external knowledge bias, and the retrieval is focused on the provided context.",1,1,"The response is irrelevant because it does not provide any information about the location of the Tien Shan, nor does it attempt to address the query in any meaningful way.",1,1,"The response does not address the query in any meaningful way, lacking coherence and relevance to the question asked.",2,2,"The response is grammatically correct and clear, but it is extremely limited in vocabulary and sentence complexity. It fits the criteria for basic fluency due to its simplicity and lack of elaboration.",0.0,0.0,0.0,0.0,0.0027759607000000003,0.0284090909,0.0142857143
+"As a meteorology enthusiast who studies weather patterns and atmospheric phenomena through satellite imagery, could you provide a detailed explanation of how the Earth Observing-1 satellite contributed to our understanding of Don Juan Pond in Antarctica, particularly in terms of its unique salinity and environmental conditions?","The Earth Observing-1 satellite contributed to our understanding of Don Juan Pond in Antarctica by capturing imagery of this unique location. In January 2014, the satellite took an image of Don Juan Pond, highlighting its position in a basin between the Dais Plateau and the Asgard Range. This imagery helps illustrate the extreme salinity of the pond, over 40 percent, which is why its calcium chloride-rich waters rarely freeze despite the harsh environmental conditions of the McMurdo Dry Valleys, known for their low precipitation and extremely cold temperatures (as low as -50°C) (Source: page-119.pdf).","TITLE: page-119.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+112
+
+Don Juan Pond
+Antarctica
+
+In a valley in one of the most extreme environments on Earth lies the world’s saltiest body of water. It rarely snows and never rains in 
+
+the McMurdo Dry Valleys of Antarctica. Winter temperatures can drop to –50° Celsius, and the few ponds and lakes are capped by 
+
+ice that is several meters thick.
+
+Then there’s Don Juan Pond. The ankle-deep pond in Upper Wright Valley is so salty that its calcium chloride–rich waters rarely 
+
+freeze. With a salinity level of over 40 percent, Don Juan is significantly saltier than the Dead Sea and the Great Salt Lake.
+
+The Earth Observing-1 satellite captured this image in January 2014. The ellipse-shaped lake is situated at the bottom of a basin 
+
+between the Dais plateau and the Asgard Range to the south. It has a slightly darker hue than the salt-encrusted lake bottom around it.=================
+TITLE: page-11.pdf, CONTENT: A
+T
+
+M
+O
+
+S
+P
+
+H
+E
+
+R
+E
+
+E
+A
+
+R
+T
+
+H
+
+4
+
+Curving Cloud Streets
+Brazil and Bolivia  
+
+To the human eye, the wind is invisible. It can only be visualized by proxy, by its expressions in other phenomena like blowing leaves, 
+
+airborne dust, white-capped waters—or the patterns of clouds.
+
+Acquired in June 2014 by the Aqua satellite, this image shows a broad swath of the Amazon rainforest in Brazil and Bolivia as it 
+
+appeared in the early afternoon. As sunlight warms the forest in the morning, water vapor rises on columns of heated air. When that 
+
+humid air runs into a cooler, more stable air mass above, it condenses into fluffy cumulus clouds. 
+
+Cumulus cloud streets often trace the direction, and sometimes the intensity, of winds—lining up parallel to the direction of the wind. 
+
+Usually this means a straight line, but clouds can also line up along the concentric, curved lines of high-pressure weather systems, 
+
+as they did here.=================
+TITLE: page-125.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+118
+
+Taranaki and Egmont
+New Zealand
+
+The circular pattern of New Zealand’s Egmont National Park stands out from space as a human fingerprint on the landscape.  
+
+The park protects the forested and snow-capped slopes around Mount Taranaki (Mount Egmont to British settlers). It was 
+
+established in 1900, when officials drew a radius of 10 kilometers around the volcanic peak. The colors differentiate the protected 
+
+forest (dark green) from once-forested pasturelands (light- and brown-green).
+
+Named by the native Maori people, Taranaki stands 2,518 meters (8,260 feet) tall, and it is one of the world’s most symmetric 
+
+volcanoes. It first became active about 135,000 years ago. By dating lava flows, geologists have figured out that small  
+
+eruptions occur roughly every 90 years and major eruptions every 500 years. Landsat 8 acquired this image of Taranaki and the  
+
+park in July 2014.","The Earth Observing-1 satellite captured an image of Don Juan Pond in January 2014, providing valuable insights into this unique body of water located in the McMurdo Dry Valleys of Antarctica. Don Juan Pond is known for being the world's saltiest body of water, with a salinity level of over 40 percent, making it significantly saltier than both the Dead Sea and the Great Salt Lake. The satellite imagery revealed the pond's location at the bottom of a basin between the Dais plateau and the Asgard Range to the south. The image also highlighted the pond's slightly darker hue compared to the salt-encrusted lake bottom surrounding it. This information is crucial for understanding the environmental conditions of the area, where it rarely snows or rains, and winter temperatures can drop to –50° Celsius, causing most ponds and lakes to be capped by thick ice. However, due to its high salinity, Don Juan Pond's calcium chloride–rich waters rarely freeze, making it an exceptional subject of study for meteorologists and scientists interested in extreme environments.",5,5,The RESPONSE accurately and thoroughly conveys all essential information from the CONTEXT without introducing unsupported details or omitting critical points.,5,5,"The first context chunk is highly relevant to the query, providing specific information about Don Juan Pond and the Earth Observing-1 satellite. The other chunks are irrelevant, but the most relevant information is correctly placed at the top, aligning with a score of 5.",4,4,"The RESPONSE fully addresses the QUERY with accurate and complete information about the satellite's contribution to understanding Don Juan Pond's salinity and environmental conditions, without additional insights.",4,4,"The RESPONSE is coherent and effectively addresses the QUERY by providing relevant information about the Earth Observing-1 satellite's contribution to understanding Don Juan Pond's salinity and environmental conditions. The ideas are logically organized, and the connections between them are clear, making the RESPONSE easy to follow.",4,4,"The RESPONSE demonstrates proficient fluency with well-structured sentences, varied vocabulary, and clear coherence. It effectively communicates the intended message with minimal errors.",0.4810126582,0.7272727273,0.4,0.5161290323000001,0.1297707221,0.3484217556,0.1923076923
+"hey so like what can you tell me about Mount Taranaki, like how tall is it and what's the deal with the park around it, and like how often does it erupt and stuff?","- Mount Taranaki, also known as Mount Egmont to British settlers, stands 2,518 meters (8,260 feet) tall and is noted for its symmetric appearance. 
+- Egmont National Park, established in 1900, protects the forested and snow-capped slopes around Mount Taranaki, with a defined area having a radius of 10 kilometers from the volcanic peak.
+- Geologists have determined that small eruptions of Mount Taranaki occur roughly every 90 years, whereas major eruptions happen approximately every 500 years. 
+
+(Source: page-125.pdf)","TITLE: page-125.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+118
+
+Taranaki and Egmont
+New Zealand
+
+The circular pattern of New Zealand’s Egmont National Park stands out from space as a human fingerprint on the landscape.  
+
+The park protects the forested and snow-capped slopes around Mount Taranaki (Mount Egmont to British settlers). It was 
+
+established in 1900, when officials drew a radius of 10 kilometers around the volcanic peak. The colors differentiate the protected 
+
+forest (dark green) from once-forested pasturelands (light- and brown-green).
+
+Named by the native Maori people, Taranaki stands 2,518 meters (8,260 feet) tall, and it is one of the world’s most symmetric 
+
+volcanoes. It first became active about 135,000 years ago. By dating lava flows, geologists have figured out that small  
+
+eruptions occur roughly every 90 years and major eruptions every 500 years. Landsat 8 acquired this image of Taranaki and the  
+
+park in July 2014.=================
+TITLE: page-115.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+108
+
+The Zones of Kilimanjaro
+Tanzania
+
+Stories about Mount Kilimanjaro often focus on its height and location. The tallest mountain in Africa is capped with snow and ice, 
+
+despite sitting near the Equator. But it is also compelling for a different reason: To get to the icy summit, you must pass through 
+
+incredibly diverse vegetation zones. The mountain rises from the hot, dry savanna, through rainforest and hardy scrublands, to a 
+
+rocky and icy summit.
+
+People have cultivated the lowlands ringing the mountain, which appear as patchy green areas. The continuous dark-green band is 
+
+montane forest, which stretches from roughly 1,800 to 2,800 meters in elevation. The dark-green areas transition to a band of green-
+
+brown known as the moorland zone—colder, less humid, and full of short, hardy plants. The highest areas—the alpine desert and 
+
+summit zones—are inhospitable to all but the most skilled mountain climbers.=================
+TITLE: page-105.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+98
+
+From Rainforest to Rain Shadow
+United States
+
+Within a three-hour drive across Oregon, you can visit a beach, a temperate rainforest, a mountain glacier, and the high desert.  
+
+The diversity of the landscape is mostly driven by the interaction of air masses and mountains.
+
+This false-color Landsat 5 image from October 2011 shows the bare soil and sparse vegetation of the high desert in shades of pink, 
+
+together with the deep-green vegetation on the west side of the Cascade Mountains. The one blue spot is the glacial cap of Mount Hood. 
+
+The transition from green to brown is indicative of a “rain shadow.” Winds blowing from the west carry moisture from the Pacific 
+
+Ocean. As the air moves up into the mountains, it cools and the pressure decreases; the moisture condenses and falls out as rain or 
+
+snow. On the eastern side, as the elevation drops, the air pressure increases and the air warms, effectively shutting off precipitation 
+
+because the air can better hold the remaining moisture.","Mount Taranaki, also known as Mount Egmont to British settlers, is 2,518 meters (8,260 feet) tall. It is located within Egmont National Park in New Zealand, which was established in 1900 with a 10-kilometer radius around the volcanic peak to protect the forested and snow-capped slopes. The park's circular pattern is visible from space, distinguishing the protected forest from the surrounding pasturelands. Mount Taranaki is one of the world's most symmetric volcanoes and became active about 135,000 years ago. Geologists have determined that small eruptions occur roughly every 90 years and major eruptions every 500 years.",5,5,The RESPONSE accurately and thoroughly conveys all essential information from the CONTEXT without introducing unsupported details or omitting critical points.,5,5,"The first context chunk fully addresses the query and is well-ranked at the top, but the following chunks are irrelevant. This aligns with a Score of 5, as the most relevant information is surfaced at the top without introducing bias.",4,4,"The RESPONSE fully addresses the QUERY with accurate and complete information, covering all the aspects asked about Mount Taranaki, including its height, the national park, and eruption frequency.",4,4,The RESPONSE is coherent and effectively addresses all aspects of the QUERY with clear and logical organization.,4,4,"The RESPONSE is well-articulated, with good control of grammar and a varied vocabulary. It demonstrates coherence and cohesion, with minor errors that do not affect overall understanding. The text flows smoothly, and ideas are connected logically, fitting the definition of proficient fluency.",0.6583850932,0.7407407407000001,0.5825242718,0.652173913,0.3352158852,0.5413802745,0.3697674419
+"What are the characteristics and significance of linear dunes in the Caprivi Strip, Namibia, and how do they contribute to understanding past ecological and climatic conditions?","- The linear dunes in the Caprivi Strip of northeastern Namibia are lengthy, with some extending over 100 kilometers (60 miles).
+- These dunes form from wind-blown sand over many years and are characterized by their ability to remain intact long after dry conditions have ceased, unlike other types of dunes that migrate over time.
+- Their preservation of dirt and rocks makes them valuable for geologists who use them to understand past ecological and climatic conditions.
+
+Summary: Linear dunes in Namibia's Caprivi Strip are significant due to their length, stability, and ability to preserve geological materials, which are useful for studying historical ecological and climate conditions. (source: page-121.pdf)","TITLE: page-121.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+114
+
+Linear Dunes, Caprivi Strip
+Namibia
+
+In far northeastern Namibia, there is a skinny stretch of land sandwiched between Angola, Botswana, and Zambia. The Caprivi Strip 
+
+receives about 600 millimeters (24 inches) of rainfall each year. That’s not a lot of rain—it tends to come in bursts that cause periodic 
+
+floods—and it is a stark contrast to the much drier parts of the country.
+
+Here the land is striped, as if a giant had dragged a rake over the landscape. Those stripes are linear dunes, and some of them are 
+
+more than 100 kilometers (60 miles) long. Dunes generally form from wind-blown sand over many years, and one characteristic of 
+
+linear dunes is that they tend to remain intact long after the dry conditions cease. And because they don’t migrate like marching 
+
+dunes, linear dunes preserve dirt and rocks that geologists can later use to understand past conditions.=================
+TITLE: page-105.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+98
+
+From Rainforest to Rain Shadow
+United States
+
+Within a three-hour drive across Oregon, you can visit a beach, a temperate rainforest, a mountain glacier, and the high desert.  
+
+The diversity of the landscape is mostly driven by the interaction of air masses and mountains.
+
+This false-color Landsat 5 image from October 2011 shows the bare soil and sparse vegetation of the high desert in shades of pink, 
+
+together with the deep-green vegetation on the west side of the Cascade Mountains. The one blue spot is the glacial cap of Mount Hood. 
+
+The transition from green to brown is indicative of a “rain shadow.” Winds blowing from the west carry moisture from the Pacific 
+
+Ocean. As the air moves up into the mountains, it cools and the pressure decreases; the moisture condenses and falls out as rain or 
+
+snow. On the eastern side, as the elevation drops, the air pressure increases and the air warms, effectively shutting off precipitation 
+
+because the air can better hold the remaining moisture.=================
+TITLE: page-109.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+102
+
+Folds and Curves of the Kavir
+Iran
+
+When astronauts pass over the deserts of central Iran, they are greeted by a striking pattern of parallel lines and sweeping curves. 
+
+The lack of soil and vegetation in the Kavir desert (Dasht-e Kavir) allows the geological structure to appear quite clearly. 
+
+The patterns result from the gentle folding of numerous, thin layers of rock. Later, erosion by wind and water cut a flat surface across 
+
+the dark- and light-colored folds, not only exposing hundreds of layers but also showing the shapes of the folds. The pattern has 
+
+been likened to the layers of a sliced onion.
+
+The dark water of a lake (image center) fills a depression in a more easily eroded, S-shaped layer of rock. A small river snakes across 
+
+the bottom of this October 2014 photograph taken from the International Space Station.","In the Caprivi Strip of northeastern Namibia, linear dunes are prominent features of the landscape. These dunes are formed from wind-blown sand over many years and can extend for more than 100 kilometers (60 miles). Despite the region receiving about 600 millimeters (24 inches) of rainfall annually, which comes in bursts causing periodic floods, the linear dunes remain intact long after dry conditions cease. Unlike migrating dunes, linear dunes do not move, allowing them to preserve dirt and rocks. This preservation is significant for geologists, as it provides valuable information to understand past ecological and climatic conditions.",5,5,The RESPONSE accurately and thoroughly conveys all essential information from the CONTEXT without introducing unsupported details or omitting critical points.,5,5,"The context from page-121.pdf is highly relevant and well-ranked at the top, directly addressing the query about linear dunes in the Caprivi Strip. The other contexts are irrelevant, but they do not affect the ranking of the relevant information.",4,4,"The response fully addresses the query with accurate and complete information about the characteristics and significance of the linear dunes, as well as their contribution to understanding past conditions.",4,4,"The RESPONSE is coherent, logically organized, and directly addresses the QUERY with clear connections between ideas. It provides a structured and easy-to-follow explanation of the characteristics and significance of linear dunes in the Caprivi Strip.",4,4,"The RESPONSE demonstrates proficient fluency with well-structured sentences, varied vocabulary, and clear communication of ideas. It is coherent and cohesive, with minor errors that do not affect understanding.",0.5685279188,0.5363636364000001,0.6020408163000001,0.5673076923,0.2667432105,0.5417691283,0.2995951417
+what happen in kavir desert october 2014?,I don't know.,"TITLE: page-109.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+102
+
+Folds and Curves of the Kavir
+Iran
+
+When astronauts pass over the deserts of central Iran, they are greeted by a striking pattern of parallel lines and sweeping curves. 
+
+The lack of soil and vegetation in the Kavir desert (Dasht-e Kavir) allows the geological structure to appear quite clearly. 
+
+The patterns result from the gentle folding of numerous, thin layers of rock. Later, erosion by wind and water cut a flat surface across 
+
+the dark- and light-colored folds, not only exposing hundreds of layers but also showing the shapes of the folds. The pattern has 
+
+been likened to the layers of a sliced onion.
+
+The dark water of a lake (image center) fills a depression in a more easily eroded, S-shaped layer of rock. A small river snakes across 
+
+the bottom of this October 2014 photograph taken from the International Space Station.=================
+TITLE: page-11.pdf, CONTENT: A
+T
+
+M
+O
+
+S
+P
+
+H
+E
+
+R
+E
+
+E
+A
+
+R
+T
+
+H
+
+4
+
+Curving Cloud Streets
+Brazil and Bolivia  
+
+To the human eye, the wind is invisible. It can only be visualized by proxy, by its expressions in other phenomena like blowing leaves, 
+
+airborne dust, white-capped waters—or the patterns of clouds.
+
+Acquired in June 2014 by the Aqua satellite, this image shows a broad swath of the Amazon rainforest in Brazil and Bolivia as it 
+
+appeared in the early afternoon. As sunlight warms the forest in the morning, water vapor rises on columns of heated air. When that 
+
+humid air runs into a cooler, more stable air mass above, it condenses into fluffy cumulus clouds. 
+
+Cumulus cloud streets often trace the direction, and sometimes the intensity, of winds—lining up parallel to the direction of the wind. 
+
+Usually this means a straight line, but clouds can also line up along the concentric, curved lines of high-pressure weather systems, 
+
+as they did here.=================
+TITLE: page-101.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+94
+
+Colorful Faults of Xinjiang
+China
+
+Just south of the Tien Shan mountains, in northwestern Xinjiang province, a remarkable series of ridges dominates the landscape. 
+
+The hills are decorated with distinctive red, green, and cream-colored sedimentary rock layers. The colors reflect rocks that formed 
+
+at different times and in different environments. The red layers near the top of the sequence are Devonian sandstones formed 
+
+by ancient rivers. The green layers are Silurian sandstones formed in a moderately deep ocean. The cream-colored layers are 
+
+Cambrian-Ordovician limestone formed in a shallow ocean.
+
+Landsat 8 captured this image of the Keping Shan thrust belt in July 2013. When land masses collide, the pressure can create 
+
+what geologists call “fold and thrust belts.” Slabs of sedimentary rock that were laid down horizontally can be squeezed into wavy 
+
+anticlines and synclines. Sometimes the rock layers break completely, and older layers of rock pile up on top of younger layers.","In October 2014, a photograph taken from the International Space Station captured the Kavir desert in central Iran, showing a striking pattern of parallel lines and sweeping curves. The lack of soil and vegetation allowed the geological structure to be clearly visible, with patterns resulting from the gentle folding of numerous thin layers of rock. Erosion by wind and water had cut a flat surface across the folds, exposing hundreds of layers and showing the shapes of the folds. The photograph also showed the dark water of a lake filling a depression in an S-shaped layer of rock, with a small river snaking across the bottom of the image.",1,1,"The RESPONSE is completely ungrounded as it does not relate to the CONTEXT in any way, making it a clear example of a response that is entirely unrelated to the provided material.",5,5,"The first context chunk directly addresses the query by describing the Kavir desert in October 2014, making it highly relevant and well-ranked. The other chunks are irrelevant, but the presence of the most relevant chunk at the top justifies a high score.",1,1,The response is irrelevant because it does not provide any information related to the query about the Kavir Desert in October 2014.,1,1,The response is completely incoherent as it does not address the query in any meaningful way.,2,2,The input data should get a Score of 2 because it communicates a simple idea with correct grammar but has extremely limited vocabulary and lacks sentence complexity.,0.0,0.0,0.0,0.0,0.0,0.0046860356,0.0021459227
+What role does the Tente River play in the formation of alluvial fans in Kazakhstan's Almaty Province?,"- The Tente River plays a significant role in the formation of alluvial fans in Kazakhstan's Almaty Province. After flowing through the foothills of the Dzungarian Alatau range, the river spreads out and becomes a braided stream, which contributes to the development of a large alluvial fan. These alluvial fans are formed as the river's channel moves over time, depositing gravel, sand, clay, and silt.
+- In arid areas, such as this region, alluvial fans are often repurposed for agriculture due to their relatively flat surfaces and the availability of groundwater for irrigation. (Source: page-111.pdf)","TITLE: page-111.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+104
+
+Fanning Out in Farmland
+Kazakhstan
+
+Mountain streams are usually confined to narrow channels and tend to transport large amounts of gravel, sand, clay, and silt—
+
+what geologists call alluvium. When such a stream pours onto a relatively flat valley or basin, it often spreads out to into multiple, 
+
+interlacing channels. Over time, the channels migrate back and forth, creating fan-shaped deposits known as alluvial fans.
+
+Landsat 8 captured this view of Kazakhstan’s Almaty Province in September 2013. On the lower left, the Tente River flows through 
+
+the foothills of the Dzungarian Alatau range. Where the Tente emerges, it spreads out and becomes a braided stream. The 
+
+movement of the channel over time has left a large alluvial fan. In arid areas, these fans are often used for agriculture because they 
+
+are relatively flat and provide groundwater for irrigation. The blocky green patterns show fields or pasture land.=================
+TITLE: page-101.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+94
+
+Colorful Faults of Xinjiang
+China
+
+Just south of the Tien Shan mountains, in northwestern Xinjiang province, a remarkable series of ridges dominates the landscape. 
+
+The hills are decorated with distinctive red, green, and cream-colored sedimentary rock layers. The colors reflect rocks that formed 
+
+at different times and in different environments. The red layers near the top of the sequence are Devonian sandstones formed 
+
+by ancient rivers. The green layers are Silurian sandstones formed in a moderately deep ocean. The cream-colored layers are 
+
+Cambrian-Ordovician limestone formed in a shallow ocean.
+
+Landsat 8 captured this image of the Keping Shan thrust belt in July 2013. When land masses collide, the pressure can create 
+
+what geologists call “fold and thrust belts.” Slabs of sedimentary rock that were laid down horizontally can be squeezed into wavy 
+
+anticlines and synclines. Sometimes the rock layers break completely, and older layers of rock pile up on top of younger layers.=================
+TITLE: page-117.pdf, CONTENT: L
+a
+
+n
+d
+
+E
+A
+
+R
+T
+
+H
+
+110
+
+Liwa Oasis
+United Arab Emirates
+
+In the sandy tan terrain of the United Arab Emirates, on the northern edge of the Rub’ al Khali, an oasis brings green to the desert. 
+
+The T-shaped, 100-kilometer stretch of date plantations and small towns compose the Liwa Oasis, home to about 20,000 people in 
+
+the emirate of Abu Dhabi. It is one of the largest oases on the Arabian Peninsula.
+
+Bedouins tapped underground water supplies here at least five centuries ago, and date farms have proliferated. Drip irrigation 
+
+and greenhouses now help conserve the precious water supply. Since rainfall is scarce in the region, much of the water comes 
+
+from aquifers full of “fossil” water that accumulated more than 20,000 years ago and is now buried deep under the sand seas and 
+
+limestone formations.","The Tente River flows through the foothills of the Dzungarian Alatau range and, upon emerging, spreads out and becomes a braided stream. This movement over time has resulted in the formation of a large alluvial fan in the area. These alluvial fans are significant in arid regions as they are relatively flat and provide groundwater for irrigation, making them suitable for agriculture.",5,5,"The RESPONSE is entirely based on the CONTEXT, accurately conveying all essential information without introducing unsupported details or omitting critical points.",5,5,"The first context chunk is highly relevant and well-ranked, directly addressing the query about the Tente River and alluvial fans. The other chunks are irrelevant, but the most relevant information is at the top.",5,5,"The response fully addresses the query with accurate information and provides additional insights about the agricultural use of alluvial fans, making it comprehensive.",4,4,"The RESPONSE effectively addresses the QUERY with a logical and orderly presentation of ideas, making it coherent and easy to understand.",4,4,"The RESPONSE demonstrates proficient fluency with well-structured sentences, varied vocabulary, and clear coherence. It effectively communicates complex ideas with minimal errors.",0.6131386861,0.5051546392,0.7903225806,0.6163522013,0.23859216460000002,0.6295599294,0.2692307692
