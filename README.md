@@ -1,4 +1,6 @@
 # Azure for Developers Retrieval Augmented Generation (RAG) with Azure AI
+This course offers a deep dive into Retrieval Augmented Generation (RAG) using Azure AI Search, Azure Cosmos DB, and Azure OpenAI. It covers the definition, workings, and components of RAG, followed by detailed instructions on building a RAG solution with these Azure tools. Additionally, the course explains how to evaluate RAG applications using various performance metrics. Perfect for those looking to use Generative AI with their business data.
+
 This is the repository for the LinkedIn Learning course Azure for Developers Retrieval Augmented Generation (RAG) with Azure AI. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ## Files
