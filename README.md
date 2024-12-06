@@ -9,7 +9,9 @@ Data folder contains the data sets used in the course.
 
 ## Instructor
 Ziggy Zulueta
+
 Microsoft AI Most Valuable Professional
+
 Microsoft Certified Trainer
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ziggy-zulueta?u=104).
